@@ -13,11 +13,11 @@ The MUSTI shared task's organizers are:
 
 In the repository, the folders are organized as below:
 
-- *Annotation guidelines* contains the general annotation guidelines in English
+- *MUSTI_annotation_guidelines* contains the general annotation guidelines in English
 
-- *Annotations EN* contains the annotations of the images-texts pairs for English 
+- *Sentences_EN* contains the annotations of the images-texts pairs for English 
 
-- *Annotations IT* contains the annotations of the images-texts pairs for Italian
+- *Sentences_IT* contains the annotations of the images-texts pairs for Italian
 
 For a detailed description of the methodology and for any other information on the shared task refers to:
 
