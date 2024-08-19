@@ -1,4 +1,4 @@
-# multimodal-annotation-of-smell
+# Multimodal-Annotation-of-Smell
 
 In this repository you can find the annotation guidelines and the annotations of English and Italian image-texts pairs to which I contributed for the shared task Multimodal Understanding of Smells in Texts and Images (MUSTI), organized in the scope of Mediaeval 2022. 
 
