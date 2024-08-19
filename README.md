@@ -2,7 +2,7 @@
 
 In this repository you can find the annotation guidelines and the annotations of English and Italian image-texts pairs to which I contributed for the shared task Multimodal Understanding of Smells in Texts and Images (MUSTI), organized in the scope of Mediaeval 2022. 
 
-The MUSTI shared task'organizers are:
+The MUSTI shared task's organizers are:
 
 - Ali Hürriyetoğlu (ali.hurriyetoglu@dh.huc.knaw.nl)
 - Stefano Menini (menini@fbk.eu)
